@@ -59,3 +59,5 @@ console.log(`The sum of ${num1} and ${num2} is ${num1 + num2}.`);
 console.log(`The difference of ${num1} and ${num2} is ${num1 - num2}.`);
 console.log(`The product of ${num1} and ${num2} is ${num1 * num2}.`);
 console.log(`The division of ${num1} and ${num2} is ${num1 / num2}.`);
+
+
