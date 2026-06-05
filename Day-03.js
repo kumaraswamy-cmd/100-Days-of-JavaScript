@@ -11,7 +11,6 @@ console.log(addTwoNumbers(3, 5));
 
 //2. Even or Odd
 
-//Write a function that takes a number and returns "even" or "odd".
 
 function evenOrOdd(n) {
   if (n % 2 === 0) {
