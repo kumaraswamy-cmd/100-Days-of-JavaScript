@@ -47,11 +47,6 @@ console.log(`My Favorite Movie is ${FavMovie}, My Favorite Food is ${FavFood} an
 Create two variables: 
 Print:
 
-Sum
-Difference
-Product
-Division*/
-
 let num1 = 10;
 let num2 = 12;
 
