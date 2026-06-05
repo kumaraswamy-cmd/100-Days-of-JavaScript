@@ -18,4 +18,3 @@ multi line comment
 
 document.getElementById("myId").textContent = `Hello Kumarr`;
 document.getElementById("myP").textContent = `I Like JavaScript`;
-  
