@@ -43,3 +43,58 @@ console.log(ourDecimal);
 var remainder;
 remainder = 11 % 3 ;
 console.log(remainder);
+
+//Augmented Math Operations 
+ 
+let a = 12 ;
+let b = 23 ; 
+let c = 34 ; 
+
+a+=12 ;
+b+=23 ;
+c+=234;
+
+console.log(a);
+console.log(b);
+console.log(c);
+
+
+a-=12 ;
+b-=23 ;
+c-=234;
+console.log(a);
+console.log(b);
+console.log(c);
+
+
+
+
+a*=12 ;
+b*=23 ;
+c*=234;
+console.log(a);
+console.log(b);
+console.log(c);
+
+
+a/=12 ;
+b/=23 ;
+c/=234;
+console.log(a);
+console.log(b);
+console.log(c);
+
+//Declaring Strings
+
+let MyName = "Kumar";
+console.log(MyName);
+
+
+//Escaping Literal Quotes
+
+var double = " i am is \"double Qouted \" string inside \"Double Qoutes\"";
+console.log(double);
+
+
+var single = ` i am is "double Qouted " string inside "Single Ticks"`;
+console.log(single);
