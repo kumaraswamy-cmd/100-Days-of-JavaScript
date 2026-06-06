@@ -98,3 +98,16 @@ console.log(double);
 
 var single = ` i am is "double Qouted " string inside "Single Ticks"`;
 console.log(single);
+
+
+
+//Escape Sequences
+
+let myStr = "Firstline\n\t\\Second Line\nThird Line";
+console.log(myStr);
+
+
+//Concatenating Strings
+
+var ourStr = "I come First. " + "I come Second";
+console.log(ourStr);
