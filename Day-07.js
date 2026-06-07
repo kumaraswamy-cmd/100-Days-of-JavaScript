@@ -25,5 +25,31 @@ let fullname = firstname + lastname ;
 
 let fullnamelength = fullname.length;
 
-console.log("my  full name is " + fullname);
+console.log("my  full name is b" + fullname);
 console.log("my full name length is " + fullnamelength);
+
+
+
+//indexing 
+//strings are immutable
+//strinhd cannot be  modified 
+let firstletter = firstname[0];
+console.log(firstletter);
+
+
+//backward location
+let lastletter = firstname[firstname.length-1];
+console.log(lastletter);
+
+
+//bracket notation to find the nth- to -last element in a string 
+
+thirdlaastletter = firstname[firstname.length-3];
+console.log(thirdlaastletter);
+
+ 
+
+//array used to store differeent type of data in one place 
+
+let ourArray = ["Kumar" , 20];
+console.log(ourArray);
