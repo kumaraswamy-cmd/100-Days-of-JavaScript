@@ -29,3 +29,13 @@ function ourResuableFunction(){
 }
 
 ourResuableFunction();
+
+
+//functions with parameters 
+
+//example 
+function ourResuableFunctionwithArgs(a,b){
+    console.log(a+b);
+}
+
+ourResuableFunctionwithArgs(5,3);
