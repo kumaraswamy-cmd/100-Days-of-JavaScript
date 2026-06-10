@@ -18,6 +18,9 @@ console.log(mydata);
 
 
 //  manipulating arrays 
+//using push
 
 myArray.push([1 , 2, 3 ]);
 console.log(myArray);
+
+//using pop
