@@ -14,4 +14,18 @@ ourarray.unshift("Kumar");
 console.log(ourarray);
 
 
+//shopping list 
 
+let myshoppinglist = [["Potato" , 2 , "kg"] ,  ["Onions" , 5 , 'kg'] , ["Milk " , 2 , " Litre"]];
+console.log(myshoppinglist);
+
+
+
+//introductions to the functions 
+
+function ourResuableFunction(){
+
+    console.log("Heyya , World");
+}
+
+ourResuableFunction();
